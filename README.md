@@ -1,7 +1,13 @@
 # Traductor de Wixárika
 
+![1](https://github.com/user-attachments/assets/1fea2e58-1a33-40ad-9d5a-669468971552)
+
+
 ## Descripción del Proyecto
 El **Traductor de Wixárika** es una aplicación móvil desarrollada en **App Inventor** que tiene como objetivo preservar y promover la lengua Wixárika (Huichol), una de las lenguas indígenas de México. La aplicación permite traducir palabras y frases básicas del español al Wixárika y viceversa, facilitando la comunicación y el aprendizaje de esta lengua.
+
+![Screenshot_20250323-143437](https://github.com/user-attachments/assets/9d08c6e9-feab-4c1e-b99c-b6ee16329587)
+
 
 Este proyecto fue ganador en la **Expociencias Nayarit 2019**, destacando por su innovación y aporte cultural.
 
@@ -13,6 +19,8 @@ Este proyecto fue ganador en la **Expociencias Nayarit 2019**, destacando por su
 - **Interfaz intuitiva**: Diseño sencillo y fácil de usar para personas de todas las edades.
 - **Audio de pronunciación**: Algunas palabras incluyen audio para ayudar en la pronunciación correcta.
 
+![Screenshot_20250323-143421(1)](https://github.com/user-attachments/assets/253e0d72-974f-4dd3-ba6f-0f69fa3ff6ec)
+
 ---
 
 ## Tecnologías Utilizadas
@@ -20,7 +28,10 @@ Este proyecto fue ganador en la **Expociencias Nayarit 2019**, destacando por su
 - **Base de datos local**: Almacenamiento de palabras y frases en listas.
 - **Diseño responsive**: Adaptable a diferentes tamaños de pantalla.
 
----
+---![Screenshot_20250323-143427](https://github.com/user-attachments/assets/34ebd929-1946-404a-a626-761d121af07c)
+
+
+
 
 ## Instalación y Uso
 1. **Descargar el archivo `.aia`**: Puedes descargar el proyecto desde [este enlace](#).
@@ -46,6 +57,7 @@ Este proyecto está abierto a contribuciones. Si deseas agregar más palabras, m
 ## Autores
 - **Jesús Roldán Madero Aguilar** - roldanmadero16@gmail.com
 - **Abad López Gómez**
+![Screenshot_20250323-143437(1)](https://github.com/user-attachments/assets/f9c5ca18-d51d-45e9-9128-3d851471655e)
 
 ---
 
