@@ -6,9 +6,6 @@
 ## Descripción del Proyecto
 El **Traductor de Wixárika** es una aplicación móvil desarrollada en **App Inventor** que tiene como objetivo preservar y promover la lengua Wixárika (Huichol), una de las lenguas indígenas de México. La aplicación permite traducir palabras y frases básicas del español al Wixárika y viceversa, facilitando la comunicación y el aprendizaje de esta lengua.
 
-![Screenshot_20250323-143437](https://github.com/user-attachments/assets/9d08c6e9-feab-4c1e-b99c-b6ee16329587)
-
-
 Este proyecto fue ganador en la **Expociencias Nayarit 2019**, destacando por su innovación y aporte cultural.
 
 ---
